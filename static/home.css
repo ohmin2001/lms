@@ -1,0 +1,9 @@
+.welcome {
+	margin: 0 auto;
+	font-size: 1rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.welcome h1 {
+	font-size: 3.5em;
+}
