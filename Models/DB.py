@@ -32,4 +32,4 @@ class DB(object):
 		return h
 
 	def commit(self):
-		self.query("COMMIT;")
+		self.query
