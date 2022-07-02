@@ -5,9 +5,9 @@ from pymysql.cursors import DictCursor
 class DB(object):
 	"""Initialize mysql database """
 	host = "sql6.freemysqlhosting.net"
-	user = "sql6501413"
-	password = "gIVkDNsCiA"
-	db = "sql6501413"
+	user = "sql6503495"
+	password = "1z2JrWvf5T"
+	db = "sql6503495"
 	table = ""
 
 	def __init__(self, app):

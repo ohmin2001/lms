@@ -28,7 +28,7 @@ h4 {
 }
 
 .home {
-	background-image: url("/static/images/bg.jpg");
+	background-image: url("/static/images/back.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 0 9.5em;
